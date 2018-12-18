@@ -36,5 +36,6 @@ def floattobin(p):
             break
     return bined
 
+
 if __name__ == '__main__':
     main()
